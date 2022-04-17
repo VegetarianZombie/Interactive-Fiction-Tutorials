@@ -1,4 +1,5 @@
 # Beginning Interactive Fiction with Twine 2
+## Author: Brian Douglas Moakley
 
 > You step into the pantry thinking about spice combinations when the door slams shut behind you. A lock snaps into place with a loud click. The pantry light goes out.
 
@@ -52,3 +53,7 @@ Yet, the underlying point in all interactive fiction is providing a compelling e
 In my upcoming tutorial series, you’ll learn how to create your own story using Twine. All it takes is some time and a willingness to adhere to the beginner’s mindset. That is, it’s okay to be confused. It’s okay to be frustrated. It’s okay to make mistakes. Feel free to raise your hand and ask questions, but also, understand, hitting your head against the wall is part of the learning process.
 
 With that said, it’s time for some fun. That is, writing your first Twine game covered in the next post.
+
+#### License: CC BY 4.0 
+#### This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. 
+
